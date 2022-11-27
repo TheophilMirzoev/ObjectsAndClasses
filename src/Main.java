@@ -9,8 +9,5 @@ public class Main
         warAndPeace.setYearOfPublication(1869);
 
         System.out.println(warAndPeace.getBooksName() + levTolstoy.getName() + levTolstoy.getLastName() + warAndPeace.getYearOfPublication());
-
-
-
     }
 }
